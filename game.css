@@ -1,0 +1,24 @@
+body {
+  font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: darkslategrey;
+}
+.intro{
+    color: black;
+}
+.main-body{
+    margin-top: 50px;
+}
+
+td{
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    border: 5px solid black;
+    font-size: 100px;
+}
+.main-body button{
+    margin-top: 20px;
+    margin-left: 55%;
+}
